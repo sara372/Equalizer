@@ -14,4 +14,4 @@ You can compose a note also by some virtuall instruments provided by the UI.
 First import your song.
 Then you can manipulate the instruments you want.
 In another tabs, you will find the virtual instruments where you can compose a little piece of music for you.
-![GUI](/Equalizer/blob/main/Untitled.png "gui")
+![Untitled](https://user-images.githubusercontent.com/61351672/168410451-0fab8bc7-86e5-4279-914d-c9ff2412cc58.png)
