@@ -15,3 +15,6 @@ First import your song.
 Then you can manipulate the instruments you want.
 In another tabs, you will find the virtual instruments where you can compose a little piece of music for you.
 ![Untitled](https://user-images.githubusercontent.com/61351672/168410451-0fab8bc7-86e5-4279-914d-c9ff2412cc58.png)
+### the virsual instruments
+![Untitle55555555d](https://user-images.githubusercontent.com/61351672/168410490-b4593a62-d535-4f50-ab90-a2b7a1c99d7a.png)
+![Untitle5555566655d](https://user-images.githubusercontent.com/61351672/168410495-82b5dcc1-d2d8-4c2f-a277-50d237166ee8.png)
