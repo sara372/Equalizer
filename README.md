@@ -5,9 +5,8 @@ In the other way around, we can generate the instrument sound using mathematics,
 
 
 ## Describtion
-My UI enables you to manipulate your song, by controlling some basic instruments, delete them, amplify the or slightly decrease them.
+GUI enables you to manipulate your song, by controlling some basic instruments, delete them, amplify the or slightly decrease them.
 It shows you the signal's wave form and the spectrogram, so you can see the effect of the manipulation you applied.
-You can compose a note also by some virtuall instruments provided by the UI.
 
 
 ## How it works
